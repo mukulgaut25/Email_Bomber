@@ -3,7 +3,7 @@ This is a basic python script for email sending in large volumes to a specific t
 
 **Use it for only educational purposes only**
 
-#### Only works when targeted email provider allows you to send as many emails as per your need here i am using Gmail account for which you have to enable the Less secure apps(LSA) permission ON which basically means that now we can connect to Gmail account with username and password specified in our script.
+#### Only works when targeted email provider allows you to send as many emails as per your need here i am using Gmail account for which you have to enable the Less secure apps(LSA) permission ON which basically means that now we can connect to Gmail account with username and password specified from our script.
 
 Here I specifically targeted the text email bomb you can also use image and malicious file also, concepts remain the same just a little bit more coding and library importing is required.
 
