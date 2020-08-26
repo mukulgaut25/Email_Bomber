@@ -10,7 +10,11 @@ Here I specifically targeted the text email bomb you can also use image and mali
 
 ## USAGE
 
-- Firstly script will ask you for the number of attempts you wanna do on the target email address 
+- Firstly script will ask you for the number of attempts you wanna do on the target email address as shown in image.
+
+
+![](/usage.png)
+
 
 >Enter number of attempt you wanna do:
 >3
