@@ -11,7 +11,7 @@ Here I specifically targeted the text email bomb you can also use image and mali
 
 ## USAGE
 
-Here on this image first argument
+- Here on this image first argument
 --num, where you specify the number of attempts you wanna do on the target email address as shown in the image.
 
 
@@ -25,7 +25,7 @@ Here on this image first argument
 - -server here you have to specify the target email server
 > smtp.gmail.com 
 
-> At last the sender name is optional default value is "Bot" 
+- At last the sender name is optional default value is "Bot" 
 > --sender
 
 - Then there is nothing else to do just specify your email address and password in the script, from which you wanna send an email and you are good to go.
