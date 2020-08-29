@@ -32,6 +32,6 @@ for i in range(0, args.num):
         smtp.login("email_address", "password")
         smtp.send_message(message)
         print("Sent....")
-    time.sleep(5)                                           #delay for 5 second in sending email
+    time.sleep(5)                                           #delay of 5 second in sending email
 
 
